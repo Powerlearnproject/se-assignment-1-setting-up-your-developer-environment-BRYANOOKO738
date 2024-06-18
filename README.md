@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15283466&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -50,3 +52,137 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+ANSWERS TO QUESTIONS
+                 Visual studio Code
+                 Setting Up Visual Studio Code: A Step-by-Step Guide
+
+
+ 1. Introduction
+Visual Studio Code (VS Code) is a powerful, open-source code editor developed by Microsoft. This guide will help you download, install, and configure VS Code, and get you started with your first project.
+
+ 2. Downloading and Installing Visual Studio Code
+
+Downloading VS Code
+1. Visit the official Visual Studio Code website**: [Visual Studio Code](https://code.visualstudio.com/)
+2. Click on the download button for your operating system (Windows, macOS, Linux).
+   ![Download Visual Studio Code](https://via.placeholder.com/600x400)
+
+Installing VS Code
+3. Run the installer after the download completes.
+4. Follow the installation prompts:
+   - Accept the license agreement.
+   - Choose the installation location.
+   - Select additional tasks (e.g., create a desktop icon, add to PATH).
+   - Click Install
+   ![VS Code Installation](https://via.placeholder.com/600x400)
+
+ 3. Launching Visual Studio Code
+1. Open Visual Studio Code from the Start menu or desktop shortcut.
+   ![VS Code Welcome Screen](https://via.placeholder.com/600x400)
+
+ 4. 
+
+ 
+ 9. Conclusion
+And bythat we have finished setting our vs code
+
+---
+
+           PYTHON
+
+
+
+ 2. Installing Python
+
+ Downloading Python
+1. Visit the official Python website: [Python.org](https://www.python.org/)
+2. Click on the download button for your operating system.
+   ![Download Python](https://via.placeholder.com/600x400)
+
+Installing Python
+3. Run the installer after the download completes.
+4. Follow the installation prompts:
+   - Check the box to Add Python to PATH.
+   - Click on Install Now.
+   ![Python Installation](https://via.placeholder.com/600x400)
+
+
+
+
+ 4. Configuring Visual Studio Code for Python Development
+
+Installing the Python Extension
+1. Open Visual Studio Code.
+2. Click on the Extensions icon in the Activity Bar.
+3. Search for "Python".
+4. Click the Install button for the Python extension by Microsoft.
+   ![Install Python Extension](https://via.placeholder.com/600x400)
+
+#### Setting the Python Interpreter
+5. Open the Command Palette (`Ctrl+Shift+P`).
+6. Type `Python: Select Interpreter`.
+7. Choose the Python interpreter you installed earlier.
+   ![Select Python Interpreter](https://via.placeholder.com/600x400)
+
+
+ 10. Conclusion
+WE have now set up a Python development environment in Visual Studio Code. 
+
+MY SQL
+
+ating and Managing Databases and Tables**
+7. **Running SQL Queries**
+8. **Using Integrated Terminal**
+9. **Conclusion**
+
+---
+
+
+
+ Downloading MySQL
+1. Visit the official MySQL website: [MySQL Downloads](https://dev.mysql.com/downloads/)
+2. Click on the MySQL Community Server download link.
+   ![Download MySQL](https://via.placeholder.com/600x400)
+
+ Installing MySQL
+3. Run the installer after the download completes.
+4. Follow the installation prompts:
+   - Choose the installation type (Developer Default is recommended).
+   - Configure MySQL Server, including root password setup and user creation.
+   - Complete the installation process.
+   ![MySQL Installation](https://via.placeholder.com/600x400)
+
+ Configuring MySQL
+5. Open MySQL Workbench or the command line client.
+6. Log in using the root account or another user account created during installation.
+7. Create a new database if needed:
+   ```sql
+   CREATE DATABASE my_database;
+   ```
+
+
+ 5. Connecting to a MySQL Database
+
+ Setting Up the Connection
+1. Open the Command Palette (`Ctrl+Shift+P`).
+2. Type `MySQL: Connect to MySQL Server`.
+3. Enter the connection details:
+   - Server: `localhost`
+   - User: `root`
+   - Password: your_password
+   - Database: your_database
+   ![Connect to MySQL Server](https://via.placeholder.com/600x400)
+
+
+ Creating a New Database
+1. Open the MySQL extension sidebar.
+2. Right-click on the connection and select ew Query.
+3. Run a SQL command** to create a new database:
+   ```sql
+   CREATE DATABASE test_db;
+   ```
+
+
+ 9. Conclusion
+ AND BY THAT WE HAVE CREATED MYSQL
